@@ -1,6 +1,6 @@
-<h1 align='center'><strong>Movie Website ⚡</strong></h1>
+<h1 align='center'><strong>mY Movie⚡</strong></h1>
 
-Live Demo 📝
+## **Live Demo 📝**
 
 https://my-movie.surge.sh/
 
