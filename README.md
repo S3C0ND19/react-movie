@@ -1,4 +1,4 @@
-<h1 align='center'><strong>mY Movie⚡</strong></h1>
+<h1 align='center'><strong>My Movie⚡</strong></h1>
 
 ## **Live Demo 📝**
 
